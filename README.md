@@ -1,4 +1,4 @@
 hello
 =====
 
-My first try try repository
+My first hello repository
